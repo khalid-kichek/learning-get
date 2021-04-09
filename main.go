@@ -1,1 +1,4 @@
-console.log('khalid')
+package main 
+
+function(main) {}
+  
